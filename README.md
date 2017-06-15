@@ -1,6 +1,7 @@
 # Sentiments
 tweet analyzer
-Problem set 6 from Harvards cs50 online course used to Analyze the tweets of existing or non-Pirvate twitter users
+Problem set 6 from Harvards cs50 online course used to Analyze the tweets of existing or non-Pirvate twitter users Using
+the Natural Language Toolkit (nltk)
 
 Find Twitter USers
 ![image](https://user-images.githubusercontent.com/26131181/27068613-f8799bc6-4fde-11e7-89a5-4ca1d4290c66.png)
