@@ -39,7 +39,6 @@ In a terminal window, execute
 export API_SECRET=value
 where value is that (pasted) value, without any space immediately before or after the =
 
-(Instructions taken from http://docs.cs50.net/problems/sentiments/sentiments.html#code-smile-code-2)
 
 to run server test just use
 
